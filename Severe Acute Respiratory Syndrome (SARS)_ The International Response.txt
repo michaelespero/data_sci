@@ -1,0 +1,1195 @@
+                                                   Order Code RL32072
+
+
+
+
+                  CRS Report for Congress
+                                      Received through the CRS Web
+
+
+
+
+   Severe Acute Respiratory Syndrome (SARS):
+                   The International Response
+
+
+
+
+                                                September 8, 2003
+
+
+
+                                                 (name redacted)
+                                             Foreign Affairs Analyst
+                                                     Tiaji Salaam
+                                           Foreign Affairs Analyst
+                     Foreign Affairs, Defense, and Trade Division
+
+
+
+
+Congressional Research Service ˜ The Library of Congress
+       Severe Acute Respiratory Syndrome (SARS):
+               The International Response
+
+Summary
+
+      Severe Acute Respiratory Syndrome (SARS), a new highly infectious disease,
+was first identified by the World Health Organization (WHO) in February 2003.
+While the overall number of confirmed cases is not high by comparison with
+statistics for other infectious diseases, the distance and speed with which SARS
+spread raised an alarm over the potential risks to international public health.
+Containment appears to be working; however, there are fears that another SARS
+outbreak could take place during the regular influenza season later in 2003.
+
+     The United States was instrumental in the global effort to contain the spread of
+SARS. Affected countries responded in different ways. Singapore and Taiwan acted
+quickly and encouraged international support in curbing the spread of the virus.
+China, on the other hand, has been criticized for down-playing the magnitude of the
+problem, particularly in the early phase of the disease. This, some analysts contend,
+ultimately enabled the virus to cross borders and in the case of Canada, hemispheres.
+
+      This report takes a retrospective look at the global response by WHO and by
+those countries most affected. It reveals some of the challenges that may lie ahead
+for the global health community, such as global interdependence and transparency,
+surge capacity, management of public fear and information disclosure, coordination
+of different national responses, and lack of funding. Examining the impacts of SARS
+and lessons learned may be useful in the response to future outbreaks or incidences
+of new diseases. This report will not be updated.
+Contents
+
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+International Response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+     Overview of the Role of the World Health Organization . . . . . . . . . . . . . . . 2
+     WHO’s Global Health Alert Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+          The Global Outbreak Alert and Response Network (GOARN) . . . . . . 3
+          The Global Public Health Intelligence Network (GPHIN) . . . . . . . . . . 3
+     The Global Threat of SARS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+     WHO’s Response to SARS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     SARS and International Health Regulations . . . . . . . . . . . . . . . . . . . . . . . . . 6
+          Overview of the International Health Regulations . . . . . . . . . . . . . . . . . 6
+          The Fifty-Sixth World Health Assembly . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Country Responses to SARS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+    China and Hong Kong . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+    Taiwan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+    Vietnam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+    Singapore . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+    Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Congressional Response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+    Infectious Disease Monitoring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+    Capacity Building . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+    Improving U.S. Response Capability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+Future Challenges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+     Global Interdependence and Transparency . . . . . . . . . . . . . . . . . . . . . . . . . 19
+     Developing Surge Capacity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+     Public Fear and Information Disclosure . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+     National Response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+     Inadequate Funding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+       Severe Acute Respiratory Syndrome
+       (SARS): The International Response
+
+                                Background
+     Severe Acute Respiratory Syndrome (SARS), a new, highly infectious viral
+disease, was first identified by the World Health Organization (WHO) in February
+2003. It is believed to have had its beginnings in China’s Guangdong Province in
+November 2002. A respiratory disease that causes flu-like symptoms which may
+progress to pneumonia, SARS has an average fatality rate of 15%. Between
+November 2002 and July 2003, a total of 8,437 cases and 813 deaths were reported
+in 31 countries.1
+
+     While the overall numbers are not high by comparison with other serious
+infectious diseases, the speed and distance with which SARS spread raised an alarm
+over the potential risks to international public health. Containment appears to be
+working; however, there are fears that another SARS outbreak might take place
+during the regular influenza season later in 2003. This report reviews the global
+response by WHO and those countries most affected. It also examines the challenges
+that may lie ahead should another outbreak of SARS (or another unknown infectious
+disease) occur.2
+
+
+                       International Response
+     Since late February, when WHO first identified the outbreak of what later
+became known as the Severe Acute Respiratory Syndrome (SARS), it has played a
+key role in the global response to the disease. SARS is a striking example of the
+risks to international public health posed by such infectious diseases. It also
+highlights the need for appropriate mechanisms of containment, particularly as
+global travel has become the primary means of spreading the disease around the
+world.
+
+     Following its initial assessment, WHO made containment of SARS its main
+goal. “Despite the lack of understanding about the disease, its cause, and future
+
+
+1
+ For a full discussion of the medical background to SARS and the U.S. response see CRS
+Report RL31937, Severe Acute Respiratory Syndrome (SARS): Public Health Situation and
+U.S. Response.
+2
+ Other sources are examining the SARS outbreak, for example, J.M. Drazen, “SARS —
+Looking Back over the First 100 Days,” The New England Journal of Medicine, July 24,
+2003.
+                                       CRS-2
+
+evolution, the need was great to introduce a series of emergency measures to contain
+SARS outbreaks in the affected areas and prevent further international spread, thus
+reducing opportunities for the new disease to establish itself.”3 Although WHO’s
+representative in China, Henk Bekedam, reportedly said on June 5, 2003 that the
+outbreak of SARS had reached its peak worldwide,4 WHO continues to stress the
+importance of sustaining international public health measures against SARS and
+working towards eliminating it as a public health threat. The SARS outbreak may
+reveal valuable lessons about the effectiveness of WHO’s surveillance and response
+systems, and its capacity to respond to similar outbreaks in the future. Examining the
+evolution of SARS also demonstrates the chains of transmission and role of the
+WHO in responding to unfolding events.
+
+      Although WHO led an unprecedented global collaborative effort to contain
+SARS, the U.S. Centers for Disease Control and Prevention (CDC) also played a key
+role in the global partnership. For more information on the role of the CDC in
+relation to SARS, see CRS Report RL31937, SARS: Public Health Situation and U.S.
+Response.
+
+Overview of the Role of the World Health Organization
+     The World Health Organization (WHO), established in 1948, is the U.N.
+system’s authority on international public health issues. It assists governments in
+improving national health services and in establishing worldwide standards for foods,
+chemicals, and biological and pharmaceutical products. WHO concentrates on
+preventive rather than curative programs, including efforts to eradicate endemic and
+other widespread diseases, stabilize population growth, improve nutrition, sanitation,
+and maternal and child care. WHO works through contracts with other agencies and
+private voluntary organizations. The United States has been a member of WHO
+since 1948.
+
+     The WHO policy making body is the World Health Assembly, composed of all
+192-member states. It meets annually in May to decide the overall direction of the
+Organization and the general program for a specific period, and to adopt the two-year
+budget. Decisions are made by majority vote, except for decisions on the budget that
+require a two-thirds vote. There is no veto provision. The Assembly elects the
+Director General as well as the 32 member states who designate persons to serve on
+the Executive Board. The Executive Board meets twice a year to review the work of
+WHO in more detail and prepares issues for consideration by the Assembly. Ten to
+twelve members of the Board are replaced every year. The United States has been
+a member on the Executive Board three out of every four years.
+
+
+
+
+3
+  WHO, Severe Acute Respiratory Syndrome (SARS): Status of the Outbreak and Lessons
+for the Immediate Future. WHO: Geneva, May 20, 2003.
+4
+  United Nations Foundation, “SARS: WHO Declares Outbreak ‘Over its Peak.’” June 5,
+2003. [http://www.unwire.org/UNWire/20030605/34097_story.asp]
+                                         CRS-3
+
+WHO’s Global Health Alert Systems
+     The Global Outbreak Alert and Response Network (GOARN). In
+April 2000, WHO formally established the Global Outbreak Alert and Response
+Network (GOARN) which brought together 112 institutions and networks of people
+and technical resources to respond to disease outbreaks of international concern.
+This global health security network provides not only an operational framework,
+drawing on data, expertise, and skill, but also aims to standardize the international
+response.5 It relies on its partners and agreed standards of practice in responding to
+potential threats, which may include emerging diseases and the intentional use of
+biological agents. In four years, between January 1998 and March 2002, GOARN
+examined 538 such cases in 132 countries.6
+
+      The Global Public Health Intelligence Network (GPHIN). WHO also
+relies on the Global Public Health Intelligence Network (GPHIN), which is a
+customized search engine that tracks Internet communications. This system proved
+to be very useful in picking up telecommunicated alerts in China. The system is also
+useful to WHO in clarifying or refuting information that may create disruption or
+panic. Other tools include geographical mapping technology and an event
+management and tracking system that provides an overview of operations.
+
+The Global Threat of SARS
+     It was clear that SARS presented a serious global threat. Lack of information
+about the cause and evolution of the new disease made its potential impact unknown.
+WHO concluded that the virus comes from a strain likely to include frequent
+mutations and links to animal species, with implications for the likelihood of
+establishing endemicity and underlining the importance of finding the means to
+control or contain it. Several factors were deemed critical in this analysis:
+
+     !   The symptoms are non-specific and common;
+     !   The symptoms can be severe and some patients require intensive
+         care for respiratory failure;
+     !   The disease spreads easily from one location to another via air travel
+         as demonstrated in transmission patterns from the initial outbreak in
+         Asia to other regions, such as North America and Europe;
+     !   There is no vaccine or treatment yet available and diagnostics tests
+         are of limited use. A number of antivirals are not effective;
+     !   The causative agent is not well understood, so the potential for
+         continued spread remains;
+     !   Certain cases may contribute to the rapid spread of infection;
+     !   Hospital staff, who are a vital link to the control of infection, are
+         disproportionately affected as are other close contacts of the patients;
+
+
+5
+  For more information on the Global Outbreak Alert and Response Network, see:
+[http://www.who.int/csr/outbreaknetwork].
+6
+  WHO, Severe Acute Respiratory Syndrome (SARS): Status of the Outbreak and Lessons
+for the Immediate Future. WHO: Geneva, May 20, 2003, p. 4.
+                                           CRS-4
+
+        !   The disease requires intensive treatment in isolation and is a burden
+            on health care systems.7
+
+      By comparison to SARS, except in the case of HIV/AIDS, other new diseases
+that have emerged in the last few decades have not presented the same combination
+of factors that pose such a heavy global risk to international health. Some of these
+diseases have not sustained strong human-to-human transmission, others have relied
+on food or a vector (such as mosquitos) for transmission, and still others have had an
+identifiable, often containable, geographic location.
+
+WHO’s Response to SARS
+     Once the severity of the disease was recognized, in February and March 2003,
+WHO took aggressive action. Examining the factors outlined above and the
+chronology of events unfolding in China, Hong Kong, Vietnam, and Toronto, it
+identified international travel as a primary means of spreading the virus. It also
+concluded at the time that some people might be highly infectious, or “super
+spreaders”. Identifying these individuals could be critical to the control of the
+disease.8 On March 15, 2003, WHO issued emergency travel recommendations as
+a global alert and response to international travelers, health care professionals, and
+border authorities. Later in March it recommended screening passengers at airports
+coming from areas with recent local transmission and gave advice to airlines on
+appropriate procedures if a case was suspected during flight. In April and May, on
+several occasions, the WHO issued its most stringent travel advisories recommending
+the postponement of all but essential travel to areas considered high risk for SARS,.9
+
+      WHO also quickly moved to set up systems for — and increase awareness of
+the need for — immediate isolation and quarantine of those with or suspected of
+having SARS. In addition, it began the detailed work of contact tracing to find the
+source of the spread. These procedures along with simple diagnostics and screening
+all contributed to the ongoing containment effort.
+
+     The response to SARS placed heavy demands on WHO and its GOARN
+partners. Time was very much of the essence. WHO pulled together a
+comprehensive network, including mobilizing a response on the ground, providing
+resources and supplies, monitoring and reporting, and establishing scientific and
+medical collaboration. The WHO issued travel procedures to prevent and manage
+probable cases of SARS.10 It established a collaborative multi-center research project
+
+
+
+7
+ The eight bullet points are drawn from a discussion in Severe Acute Respiratory Syndrome
+(SARS): Status of the Outbreak and Lessons for the Immediate Future. WHO: Geneva, May
+20, 2003, p. 2-3.
+8
+ TB and Outbreaks Weekly, “Severe Acute Respiratory Syndrome; WHO points at ‘super
+spreaders’ as key to stopping SARS,” April 29, 2003.
+9
+  WHO, Severe Acute Respiratory Syndrome (SARS): Status of the Outbreak and Lessons
+for the Immediate Future. Geneva: WHO, May 20, 2003, p. 6.
+10
+     For more detail, see [www.who.int/csr/sars/travel].
+                                         CRS-5
+
+on SARS and brought together clinicians for SARS diagnosis and treatment.11 It also
+developed guidelines, recommendations, and descriptions concerning case
+definitions, case management, laboratories, biosafety, blood safety, epidemiology,
+mass gatherings, and goods and animals from SARS-affected areas.12
+
+     An urgent plan for the operational response to SARS was developed and
+implemented. This included providing expertise and supplies in SARS-affected areas
+and hospitals, and “in the air” through technology to bring the best minds to the
+collaboration required. This plan resulted in:
+
+       !   A global alert
+       !   Rapid case identification
+       !   Global reporting system and verification
+       !   Regular updates and advice
+       !   International field support and logistics coordination
+       !   Epidemiological and clinical networking
+       !   Laboratory network13
+
+      Through this network, and daily conference calls, epidemiologists were able to
+discuss cases, refine their definitions, examine chains of transmission, track progress,
+and increase their understanding of what worked best where. Similarly, individuals
+working in the clinical network were able to share experiences with different forms
+of treatment, examine the possible reasons for the range of individual responses to
+the disease, and develop guidelines for infection control. The network of the
+laboratories enabled many scientists to work together to come up with the
+identification of the SARS virus.
+
+      Scientists have much to learn about SARS, including understanding the
+evolution of the disease, designing early detection, prevention and treatment
+strategies, and establishing effective surveillance systems. Until then, containment
+may remain the most effective control tool. If SARS becomes endemic, the WHO
+may find the application of models of response for other infectious diseases, such as
+malaria, meningitis and yellow fever useful in combating the disease and developing
+therapies and vaccines.14
+
+    WHO has issued an appeal for funding to support its surveillance and
+monitoring activities in Asia. It hopes to help those hardest hit by the disease
+economically, to continue with their efforts to control SARS, and ultimately to
+
+
+
+
+11
+  For more information about the WHO collaborative network, see [http://www.who.int/
+csr/sars/networkshome].
+12
+     Links to information under              these   headings       can   be   found   at
+[http://www.who.int/csr/sars/guidelines].
+13
+     WHO, “The Operational Response,” April 16, 2003.
+14
+  WHO, “Severe Acute Respiratory Syndrome (SARS): Status of the Outbreak and Lessons
+for the Immediate Future,” Geneva, Switzerland, May 20, 2003, p. 7.
+                                        CRS-6
+
+eliminate the disease as a global threat.15 The WHO has an annual budget of nearly
+$850 million. It relies heavily on its 192 member states for resources and teams of
+experts.16
+
+SARS and International Health Regulations
+      The outbreak of SARS has raised many public health questions, including the
+application of international law. According to David P. Fidler, Professor of Law at
+Indiana School of Law in Bloomington, the legal implications affect three main areas
+ — International Health Regulations (IHR); public health measures and civil and
+political rights; and principles of state responsibility in responding to SARS.17 This
+section will focus on the IHR because of its relevance to WHO.
+
+      Overview of the International Health Regulations. In 1951, under
+Article 21 of the WHO constitution, member states adopted the International Sanitary
+Regulations, which in 1969 became known as the International Health Regulations
+(IHR). Amendments were made in 1973 and 1981. The main purpose was to control
+the spread of diseases with minimum impact on world traffic through the
+development of a global surveillance system, the use of procedures at ports and
+airports, and the creation of disease-specific provisions. Some argue that the
+regulations have not been effective in ensuring protection against diseases in a world
+of increasing trade and travel. Experts maintain that a key reason for ineffectiveness
+lies in the limited number of diseases to which the IHR applies. Originally, the
+regulation covered six diseases — smallpox, relapsing fever, typhus, cholera, plague,
+and yellow fever.18 Today the IHR applies only to the last three diseases. Smallpox
+is considered to have been eradicated some years ago. Relapsing fever and typhus had
+been so successfully controlled that they were no longer considered a public health
+threat. The IHR do not apply to more recent infectious diseases such as HIV/AIDS
+and SARS. Member states were therefore under no obligation to report the outbreak
+of a new infectious disease nor were they required to restrict trade or travel even if
+it would benefit containment.19
+
+    In the 1990s, the WHO initiated a revision of the IHR to address the limited
+scope of the diseases covered, increase its relevance to the kinds of infectious disease
+
+
+
+
+15
+     The Australian, “WHO Seeks $306m for SARS Fight,” May 23, 2003.
+16
+  Washington Post, “SARS Shows WHO Disease Hunters’ Skills, and Limits,” May 31,
+2003. [http://www.washingtonpost.com]
+17
+  The American Society of International Law, SARS and International Law, April 2003, see
+[http://www.asil.org/insights].
+18
+  WHO, “International Health Regulations.” [www.who.int/csr/ihr/en.]; The American
+Society of International Law, SARS and International Law, April 2003.
+19
+  The American Society of International Law, SARS and International Law, April 2003,
+see [http://www.asil.org/insights].
+                                           CRS-7
+
+threats most prevalent or likely today, and to manage the return of old diseases. These
+revisions are scheduled to be finalized in 2005.20
+
+     In 2001, the World Health Assembly adopted a resolution concerning member
+response to international public health emergencies and global health security with
+reference to epidemics. In 2002, another resolution made the response more specific,
+and included health risks related not only to natural occurrence, but to accidental or
+deliberate use of biological and chemical agents.21
+
+     The SARS outbreak added momentum to discussions about revising the IHL
+that were already well under way. As recently as January 2003, the 192 member
+states had been discussing the details of the new framework, with a resolution for
+completing the revised regulations. Although the IHR were recognized as being
+outdated, the case of SARS highlighted the problems of transparency — China
+denied the problem existed for months, and the information provided from Toronto
+was criticized by some as incomplete and not timely enough.
+
+     The Fifty-Sixth World Health Assembly. Fidler argues that “the SARS
+epidemic may encourage WHO member states to accept a more robust international
+legal framework for global infectious disease control than has existed historically.”22
+At the Fifty-Sixth World Health Assembly in May 2003, the member states adopted
+two resolutions relevant to the SARS outbreak, one specifically on SARS, the other
+on the revision of IHL.23 The SARS resolution focuses on eleven recommendations
+to WHO member states in addressing the SARS outbreak; it also requests the WHO
+Director General to take specific actions. None of these are new obligations or
+binding on member states as earlier press reports might have suggested. Rather, they
+build on the role of the WHO and highlight the need for information sharing and
+international cooperation in combating an outbreak such as SARS.24
+
+
+20
+  WHO Executive Board, Revision of the International Health Regulations, EB111.R13,
+Agenda Item 5.12, 111th Session, January 24, 2003. Report by the Secretariat, WHO
+Executive Board,”Revision of the International Health Regulations,” EB111/4, Provisional
+Agenda item 5.12, 111th Session, December 15, 2002.
+21
+    WHO, Revision Process of the International Health Regulations (IHR).
+[http://www.who.int/csr/ihr/revision/en/]. Previous resolutions include: WHA48.13 on new,
+emerging, and re-emerging infectious diseases, WHA54.14 on global health security,
+epidemic alert and response,EB111.R13 on revision of IHR, and EB111.R6 on the
+prevention and control of influenza pandemics and annual epidemics. See Fifty-Sixth World
+Health Assembly, Geneva, 19-28 May 2003, A56/48 - Revision of the International Health
+Regulations.
+22
+     The American Society of International Law, SARS and International Law, April 2003.
+23
+  World Health Assembly, Severe Acute Respiratory Syndrome (SARS), WHA56.29, May
+28, 2003; and World Health Assembly, Revision of the International Health Regulations,
+WHA56-28, May 28, 2003. For a discussion of these resolutions in international law, see
+The American Society of International Law, Developments Involving SARS, International
+Law, and Infectious Disease Control at the Fifty-Sixth Meeting of the World Health
+Assembly, June 2003. See [http://www.asil.org/insights].
+24
+     The American Society of International Law, Developments Involving SARS, International
+                                                                             (continued...)
+                                        CRS-8
+
+     The IHL Resolution takes an important political step in emphasizing the need
+for member states to cooperate with other states and the WHO in monitoring and
+responding to infectious diseases. Although the SARS outbreak highlighted the
+strong need for revision of the IHL, then WHO Director General Gro Harlem
+Brundtland also pointed out the difficult balance to be struck in revising the
+regulations, such as state obligations to report sensitive health information, protection
+of human rights and civil liberties in light of an international health threat, and the
+impact on immigration policies and decisions.25 The IHL Resolution does not give
+WHO a significant increase in authority in terms of intervention during a potential
+public health threat, nor does it give WHO the power to reprimand a state that does
+not comply.26 However, the IHL Resolution lays the political groundwork for states
+to respond appropriately, much of the encouragement to comply will likely come
+from international pressure as the SARS case demonstrated.27
+
+      The IHL resolution was adopted as an interim measure until the IHL revisions
+are finalized in 2005. The WHO opted for this two-step process rather than insisting
+that members immediately approve the incorporation of the resolution into the IHL.28
+Some experts suggest that this resolution will encourage WHO collaboration within
+countries and also provide momentum for implementation of the measures outlined
+in the resolution.29 The U.S. delegation initially asked for a postponement of action
+on the proposed resolution, hoping to include it in a broader discussion, but later
+conceded when it did not enlist member support.30 Others suggested that this was a
+“negotiating tactic” used to avoid too early a commitment by the United States.31
+
+
+
+
+24
+  (...continued)
+Law, and Infectious Disease Control at the Fifty-Sixth Meeting of the World Health
+Assembly, June 2003. See [http://www.asil.org/insights].
+25
+ Washington Fax, Brundtland Urges Health Security Measures for WHO Member States,
+May 21, 2003.
+26
+ The American Society of International Law, Developments Involving SARS, International
+Law, and Infectious Disease Control at the Fifty-Sixth Meeting of the World Health
+Assembly, June 2003. See [http://www.asil.org/insights].
+27
+  Washington Post, “WHO Gets Wider Power to Fight Global Health Threats,” May 28,
+2003. [http://www.washingtonpost.com]
+28
+  Washington Post, “WHO Gets Wider Power to Fight Global Health Threats,” May 28,
+2003. [http://www.washingtonpost.com]
+29
+     ProMed,”Comment on WHA Resolution,” May 28, 2003.
+30
+  Washington Post, “WHO Gets Wider Power to Fight Global Health Threats,” May 28,
+2003. [http://www.washingtonpost.com]
+31
+  United Nations Foundation, “WHO: Members Vote to Give Agency New Powers in
+Outbreaks, More”UN Wire, May 28, 2003. See
+[http://www.unwire.org/UNWire/20030528/33949_story.asp]
+                                      CRS-9
+
+                   Country Responses to SARS
+     The SARS virus rapidly spread to 30 countries, ultimately infecting 8,437
+people, of whom 813 died.32 Each country handled the virus differently. Some
+countries, like Vietnam, immediately called for international support. Others, like
+China, initially downplayed the severity of the virus within their borders. Although
+the United States reported 75 SARS cases it had no SARS-related deaths.33
+Countries experiencing five or more SARS deaths are discussed in this section.
+Other countries that reported SARS deaths include: France (1), Malaysia (2),
+Philippines (2), South Africa (1), and Thailand (2).
+
+China and Hong Kong
+     Reports of SARS outbreak coverups surfaced in mainland China in April 2003.
+Many blamed China for the global SARS crisis, which seems to have started in
+southern China. Critics argued that had China been forthright in proclaiming the
+extent of the SARS problem, the disease would not have spread throughout the
+country, and eventually to other countries.34
+
+     In response to international criticism about its complacency and cover-up in
+preventing the spread of the virus, the Chinese government took a number of steps
+to demonstrate transparency and vigilance in combating the spread of SARS. The
+Mayor of Beijing and the Minister of Health were fired.35 Chinese authorities also
+quarantined those with symptoms of the disease and those with whom they had
+contact, often thousands at a time.36 Entire apartment buildings, markets, hospitals,
+universities, and schools were shut down. All schools in Beijing were closed for
+nearly three months.37 Chinese authorities banned all tourist visits from the central
+part of the country and Tibet.38 China also closed some border crossings, including
+
+
+
+
+32
+  WHO, Cumulative Number of Reported Probable Cases of SARS. July 10, 2003.
+[http://www.who.int/csr/sars/country/2003_07_11/en/]
+33
+  For more information on how the United States combated the spread of SARS see CRS
+Report RL31937, Severe Acute Respiratory Syndrome (SARS): Public Health Situation and
+U.S. Response.
+34
+ Pomfret, John, “Beijing Told Doctors to Hide SARS Victims.” April 20, 2003. The
+Washington Post. [http://www.washingtonpost.com]
+35
+  Pomfret, John, “Thousands Flee Beijing, Fearing SARS.”       April 24, 2003. The
+Washington Post. [http://www.washingtonpost.com]
+36
+  Eckholm, Erik, “4,000 Quarantined in Beijing as Suspected SARS Cases Climb.” April
+25, 2003. The New York Times. [http://www.nytimes.com]
+37
+   The New York Times, “As SARS Eases, Beijing Classes Resume.” May 19, 2003.
+[http://www.nytimes.com]
+38
+    Maynard, Micheline, “Passport, Mask, Thermometer.”             May 11, 2003.
+[http://www.nytimes.com]
+                                         CRS-10
+
+some between China and Mongolia and postponed reopening the Khunjirap crossing
+between China and Pakistan.39
+
+     Chinese officials enacted new laws to fight SARS. One of China’s most
+controversial laws, calls for the imprisonment or execution of anyone found
+intentionally spreading the virus. The first person facing punishment under this law
+is Dr. Li Song. Authorities charge Dr. Li with vandalism and violating an infectious
+disease law.40 Hospital officials argue that he left a hospital knowing he had SARS,
+and ultimately spread the virus to his family and more than 100 others in the small
+town of Linhe. Dr. Li’s mother, father and wife have died of SARS, while Dr. Li
+remains in jail.41
+
+      Other laws sought to halt the spread of the virus through fines. Authorities in
+the southern town of Guangzhou began fining individuals who spit in public 50 yuan
+(about $6 US), a fine that many will find difficult to pay.42 In Shanghai, those found
+spitting, as well as throwing away cigarette stubs or fruit peels in public areas, and
+dumping garbage and sewage in the wrong places are subject to a fine of 200 yuan
+(about $24 US), compared to 50 yuan prior to the SARS outbreak.43
+
+      China’s moves to address the spread of SARS have also included financial
+assistance. The Chinese Ministry of Finance allocated a total of 440 million yuan
+(about $53 million) to reinforce the fight against SARS.44 Provincial and local
+governments also offered assistance to those affected by SARS. Assistance included
+the distribution of temporary subsidies, disinfectants, protective surgical masks and
+soap. One Beijing district, the Dongcheng District, reported that it decided to
+provide 420 thousand yuan (about $51 thousand) to its low income residents, and
+Chaoyang District allocated 350 thousand yuan (about $42 thousand) towards the
+purchase of preventive aids.45 Meanwhile officials in Hong Kong announced a $1.5
+billion aid package, which included waiving water and sewage charges for the
+
+39
+  China Internet Information Center, “China Temporarily Closes Some Border Ports.” May
+12, 2003. [http://www.china.org.cn/english/index.htm]
+40
+ Kahn, Joseph, “Man’s Virus Infects Town, Killing His Family.” May 15, 2003. The New
+York Times. [http://www.nytimes.com]
+41
+  Supporters of Dr. Li point out a number of inconsistencies in the charges. Although
+Chinese officials claim Dr. Li spread the virus throughout Linhe when he walked out of Ba
+Meng Hospital on April 8, 2003, SARS was not placed on the mandatory quarantine list
+until April 14, six days later. Furthermore, members of Dr. Li’s family contend that he did
+not know that he was infected with SARS, and he only left the hospital after complaining
+of poor treatment. Dr. Li also reportedly walked out of the facility to care for his parents
+who suddenly became ill. The Li family are currently searching for a lawyer.
+42
+     BBC News, “Spitting ban to combat SARS.” May 14, 2003. [www.bbc.co.uk]
+43
+  People’s Daily, “SARS Epidemic Increases Personal Hygiene Awareness.” April 28,
+2003. [http://english.peopledaily.com.cn/]
+44
+  People’s Daily, “China Allocates US $6.25 mln on Anti-SARS Measures.” May 23, 2003.
+[http://english.peopledaily.com.com.cn/]
+45
+  People’s Daily, “Beijing Moves to Aid Economically disadvantaged residents in SARS
+fight.” April 24, 2003. [http://english.peopledaily.com.cn/]
+                                       CRS-11
+
+general public for up to four months, increasing income tax rebates, waiving license
+fees for heavily affected industries, guaranteeing $450 million in loans to affected
+businesses, increasing medical research spending, and reducing commercial rents for
+stores at public housing sites and other government controlled properties.46 The
+Chinese Government also reserved $128 million for a Hong Kong marketing
+campaign now that the city has been removed from the WHO list of infected areas.47
+According to the Chinese Government, the international community donated about
+$76.6 million to aid its fight against SARS.48
+
+     On June 10, the WHO sent a high-level team, including Dr. David Heymann,
+Executive Director for Communicable Diseases at WHO, to China to assess the
+current situation and plan a strategy for the future. They proposed steps for
+examining and detecting cases, defining procedures for contact tracing, and
+responding to local transmissions. WHO was particularly concerned about the
+capacity of the Chinese rural health systems to deal with emerging infectious
+diseases, from effective monitoring and reporting to adequate hospital care.49
+However, it found that surveillance systems in two key rural provinces were
+effective.50 China has also surprised many with the speed with which it brought its
+outbreak under control. Some studies suggest that the mortality rate may have been
+lower, and the cure rate higher, than in other parts of the world. Differences in
+incubation period and groups at highest risk may provide clues for fighting the
+disease. According to Dr. Heymann, “Long-term containment depends on finding
+answers to a long list of scientific questions. China has much to offer the rest of the
+world.”51
+
+     On June 24, 2003, WHO removed its recommendation that people should
+postpone all but essential travel to Beijing, China. Beijing was the last area in the
+world to have the travel warning lifted. Beijing, with a cumulative total of 2,521
+probable cases and 191 deaths, has had the largest outbreak of SARS anywhere in the
+world, followed by Hong Kong with 1,755 cases and 296 deaths, and Guangdong
+Province with 1,511 cases and 57 deaths.52
+
+
+
+
+46
+ Bradsher, Keith, “Epidemic Spurs Plan to Revive Hong Kong.” April 24, 2003. The New
+York Times. [http://www.nytimes.com]
+47
+  Bradsher, Keith, “Relieved Hong Kong Starts to Shed Masks.” May 25, 2003. The New
+York Times. [http://www.nytimes.com]
+48
+ People’s Daily, “FM Spokeswoman Briefs on Assistance to China for SARS Battle.”
+May 9, 2003. [http://english.peopledaily.com.cn/]
+49
+     WHO, “Update 77 — WHO Officials to Visit China,” June 10, 2003.
+50
+   WHO, “Update 59 - Report on Guangxi (China) visit, situation in Taiwan, risk of SARS
+transmission during air travel.” May 19, 2003. [httpwww.who.int/csr/sars]
+51
+     WHO, “Update 77 — WHO Officials to Visit China,” June 10, 2003.
+52
+   WHO, “Update 87 - World Health Organization changes last remaining travel
+recommendation — for Beijing, China.” June 24, 2003. [http://www.who.int]
+                                         CRS-12
+
+Taiwan
+     The doubling of SARS deaths53 in Taiwan prompted WHO to send a team to
+investigate the island’s SARS situation. The sharp increase in new cases and deaths
+surprised some as Taiwan initially appeared successful in curtailing mortality,
+avoiding international community transmission, as well as maintaining a relatively
+low number of new cases compared to mainland China. The government of Taiwan
+took early steps to avoid a massive SARS outbreak, including imposing mandatory
+10-day quarantines on all visitors arriving from China, Hong Kong, Singapore or
+Toronto; cancelling more than 100 commercial flights; cancelling high school exams
+scheduled for the end of May; and monitoring the temperature of visitors to many
+public buildings and hotels.54
+
+     In May 2003, the President of Taiwan, who has been vocal in his desire to gain
+Taiwanese observer status to the WHO55, stated that Taiwanese hospital officials
+from Taipei Municipal Hoping Hospital may have tried to cover up a SARS
+outbreak.56 In response, Taiwanese authorities fired the superintendent of the
+hospital and relocated all 200 patients and 900 employees from Hoping Hospital to
+a designated SARS facility while the hospital was being disinfected.57 Shortly after,
+the Taipei City Government fined the Hoping Hospital 1.1 million Taiwan dollars
+($31,682 US) and four other hospitals 1.5 million Taiwan dollars ($43,202 US) each
+for delaying reporting SARS cases to health authorities, and revoked the licence of
+the former Jen Chi Hospital superintendent, Liao Cheng-hsiung, accusing him of
+covering up a SARS outbreak while serving.58 The Taiwan Minister of Health, Dr.
+Twu Shiing-jer, voluntarily resigned on May 16, 2003, taking full responsibility for
+the SARS spread.59 Two days later, more than 140 medical employees across the
+island reportedly resigned to avoid dealing with SARS patients.60 The medical
+workers charged that the government had failed to provide sufficient protective
+gear.61
+
+
+
+53
+  WHO reported 10 SARS deaths in Taiwan on May 6, 2003, and 24 SARS deaths on May
+13, 2003.
+54
+ Luh, Shu Shin and John Pomfret, “Taiwan Bidding to Join WHO.” May 10, 2003. The
+Washington Post. [http://www.washingtonpost.com]
+55
+     Taiwan is not a WHO member, thus it sought China’s consent before sending a team.
+56
+  Luh, Shu Shin and John Pomfret, “Taiwanese President Suggests Hospital Covered Up
+Disease.” May 13, 2003. The Washington Post. [http://www.washingtonpost.com]
+57
+     Ibid.
+58
+  Channel News Asia, “Taiwan officials confident of bringing SARS under control despite
+55 new cases Friday.” May 23, 2003. [http://www.channelnewsasia.com]
+59
+ McNeil Jr., Donald G., “Taiwan Health Minister Quits Over His Handling of SARS.”
+May 16, 2003. The New York Times. [http://www.nytimes.com]
+60
+ Culpan, Tim, “Taiwan Posts Daily Record for SARS Cases.” May 21, 2003. The
+Washington Post. [http://www.washingtonpost.com]
+61
+  Connolly, Ceci and Tim Culpan, “U.S. Doctor with SARS Symptoms to Return
+Home.” May 23, 2003. The Washington Post. [http://www.washingtonpost.com]
+                                        CRS-13
+
+      WHO officials believe that lapses in infection control, particularly in emergency
+rooms, may have been one of the reasons for the rapid increase in cases.62 Reports
+seem to support the assertion that Taiwanese health officials may not have taken
+enough measures to limit the spread of the virus both within and among the hospitals.
+The Dean of Hoping Municipal Hospital’s Radiology Department reported that,
+“Everything went wrong. There is no proper quarantine facility.” It was reported
+that hospital staff did not separate SARS patients from non-SARS patients, and did
+not ask patients about their medical history. Concern about Taiwan’s ability to
+contain the virus was heightened when CDC officials announced on May 23, 2003
+that an American doctor sent with the WHO/CDC team to investigate Taiwan’s
+recent upsurge in SARS cases was suspected to have become infected with SARS
+and was returned to the U.S. to undergo treatment.63 CDC officials added that
+Hoping Hospital made the critical mistake of sending SARS patients to other
+hospitals for treatment, unwittingly spreading the disease.64
+
+      In addition to its collaborative efforts with CDC and WHO, Taiwan bolstered
+its quarantine efforts, strengthened its contact tracing capabilities, and improved its
+infection control practices. The Government of Taiwan also released a $1.44 billion
+U.S. aid package, which sought to assist ailing businesses and families of SARS
+victims, establish SARS prevention mechanisms, and create effective SARS contact
+tracing mechanisms.65 Taiwan was removed from the WHO list of areas with recent
+local transmission on July 5, 2003. Its last probable case was reported on June 19,
+2003. To date, 671 people have contracted the virus, of whom 84 have died.
+
+Vietnam
+     Vietnam, the poorest of the SARS-affected countries, was the first country to
+contain the SARS virus. The WHO removed Vietnam from its list of affected
+countries less than five weeks after it recorded its first SARS death.66 Vietnam was
+hailed as a success story largely because of its rapid response to the health crisis, and
+its cooperation with WHO and CDC officials who offered critical technical
+assistance.67 According to the WHO, Vietnam was fortunate to have had only one
+carrier, who spent less than three days among the general public prior to
+hospitalization. This limited the number of contacts that the man made.
+
+
+62
+  WHO, “Update 59 - Report on Guangxi (China) visit, situation in Taiwan, risk of SARS
+transmission during air travel.” May 19, 2003. [http://www.who.int]
+63
+ Altman, Lawrence and Donald G. McNeil, “U.S. Doctor with Symptoms to Fly Home from
+Taiwan.” May 23, 2003. The Washington Post. [http://www.washingtonpost.com]
+64
+  Chung, Lawrence, “Complacency and infighting led to worsening outbreak.” May 23,
+2003. The Straits Times website. [http://www.straitstimes.com]
+65
+  Channel News Asia, “Taiwan’s parliament approves special budget of US $1.44 billion
+to combat SARS.” May 23, 2003. [http://www.channelnewsasia.com]
+66
+ Nakashima, Ellen, “Vietnam Took Lead in Containing SARS.” May 5, 2003. The
+Washington Post. [http://www.washingtonpost.com]
+67
+ WHO, “Update 39 - Optimism in Viet Nam, caution urged when using diagnostic tests.”
+April 25, 2003. [http://www.who.int/csr/sars]
+                                        CRS-14
+
+      Some observers praised the success of the country with less resources than its
+SARS-affected neighbors to rapidly contain the virus. One Vietnamese health
+official explained that Vietnam’s response contrasted with China’s initial response
+in that Vietnam did not seek to downplay the potential impact of the disease and it
+welcomed international assistance. France quickly announced that it would offer
+more than $100,000 to help sterilize Hanoi French Hospital, where the first SARS
+case was detected.68 The WHO and CDC donated masks, gowns and other
+equipment; Japan contributed two ventilators and other medical supplies; Doctors
+Without Borders sent a medical team; and Vietnamese medical workers were trained
+in infection control techniques.69 Vietnamese doctors also voluntarily quarantined
+themselves in Bach Mai hospital, the designated SARS hospital, to avoid spreading
+the virus to their families and the general community.
+
+      The government of Vietnam ordered the establishment of provincial and
+municipal steering committees responsible for closing down any entity and isolating
+any individual who contracted SARS or was suspected to be infected with the virus.70
+It also trained medical workers, customs officers, airline staff and those working in
+the tourism sectors.71 The Finance Ministry spent about $2 million on medical
+equipment and activities related to SARS prevention72 and targeted a little more than
+$1 million for Vietnam’s border provinces tasked with preventing SARS from
+leaving or entering Vietnam.73 The Government of Vietnam recently announced that
+it intended to spend an additional $3.3 million to prevent SARS from returning.74
+Johnny Chen, believed to have carried SARS to Vietnam from China, died of SARS
+on March 13, 2003. A little more than a month later on April 28, 2003, the WHO
+announced that Vietnam was the first country to have contained the deadly virus. A
+total of 63 people contracted SARS in Vietnam, 5 of whom died.75
+
+
+
+
+68
+    Asia Times, “Vietnam shows how to beat SARS.”                    April 30, 2003.
+[http://www.atimes.com]
+69
+ Nakashima, Ellen, “Vietnam Took Lead in Containing SARS.” May 5, 2003. The
+Washington Post. [http://www.washingtonpost.com]
+70
+  Ministry of Foreign Affairs, “Further precautions taken to ward off SARS.” March 31,
+2003. [http://www.mofa.gov.vn]
+71
+  Ministry of Foreign Affairs, “Deputy Prime Minister asks all provinces to establish SARS
+control committees.” April 16, 2003. [http://www.mofa.gov.vn]
+72
+  Ministry of Foreign Affairs, “30 billion VND for SARS prevention work.” April 8, 2003.
+[http://www.mofa.gov.vn]
+73
+  Ministry of Foreign Affairs, “Further precautions taken to ward off SARS.” March 31,
+2003. [http://www.mofa.gov.vn]
+74
+ Ministry of Foreign Affairs, “Ninety returnees from Beijing to leave isolated centre.”
+May 12, 2003. [http://www.mofa.gov.vn]
+                                       CRS-15
+
+Singapore
+     Some civil libertarians criticized the Government of Singapore in its response
+to the SARS virus as being too harsh. However, the World Health Organization
+commended Singapore on its response to the virus. Dr. David Heymann, Executive
+Director of communicable disease programs at the WHO described Singapore’s
+actions as “exemplary”, and stated that “Singapore has been one of the most
+successful countries in its response to SARS.”76 The World Health Organization
+removed Singapore from the list of areas with local SARS transmission on May 30,
+2003.77
+
+     Singapore’s actions against SARS were viewed as swift and widespread. For
+example, the Ministry of Education required all schools to provide students with a
+personal thermometer, and to teach them to check their own temperatures daily. All
+students taking the national language exams in June 2003, underwent temperature
+checks before entering testing sites. The Ministry also required the Institutes of
+Higher Learning to segment their large campuses into smaller sections to reduce
+movement across the campus and to facilitate contact tracing. Singapore required all
+students and households to have thermometers by June 2003. Other steps taken to
+prevent the spread of SARS included: directing all SARS cases to one hospital,
+installing video cameras in the homes of all quarantined individuals, electronically
+tagging violators of quarantine orders, using body thermal scanners at airports,
+enforcing mandatory temperature checks for all individuals departing Singapore and
+those arriving from SARS affected areas, requiring all food handlers to take their
+temperatures twice a day, and applying mandatory temperature checks for entry to
+many public events. On March 24, 2003, the Singapore Ministry of Health invoked
+the Infectious Disease Act to isolate those infected with SARS, and prevent the
+further spread of the virus. The act was amended on May 23, 2003, by requiring all
+those who broke the home quarantine to be tagged, arrested, detained, and/or fined.
+The first offense is punishable by up to $10,000 or 6 months imprisonment and
+repeat offenders can be fined up to $20,000 or 12 months.78
+
+
+
+
+76
+  WHO, “Update 53 - Situation in Singapore and Hong Kong, interpretation of areas with
+recent local transmission.” May 12, 2003. [http://www.who.int]
+77
+ WHO, “Update 70 - Singapore removed from list of areas with local SARS transmission.”
+May 30, 2003. [http://www.who.int]
+78
+   Singapore Ministry of Information ,”Ministerial Statement in Parliament, SARS - A
+National Response.” April 24, 2003. [http://app.sprinter.gov.sg/data/pr/2003042408.htm];
+Ramesh, S, “Singapore toughens Infectious Disease Act to deal with SARS outbreak.” April
+25, 2003. Channel News Asia. [http://www.channelnewsasia.com]; Government of
+S i n g a p o r e , “ H o m e Q u a r a n t i n e In f o r m a t i o n . ” May 27, 2003.
+[http://www.sars.gov.sg/family.html]; and Singapore Ministry of Education, “Arrangements
+for the 2003 GCE ‘O’ & ‘A’ Level Mother Tongue Language Mid-Year Examinations.”
+May 27, 2003. Government of Singapore. [www.sars.gov.sg]
+                                       CRS-16
+
+    The Government of Singapore also unveiled a $230 million SARS relief
+package on April 17, 2003. Key elements include:
+
+     !   a Home Quarantine Allowance Scheme, which pays an allowance
+         to the self-employed and to small business owners who have
+         employees affected by home quarantine orders;79
+     !   property tax rebates for commercial properties and tourist hotels;
+     !   50% reduction in foreign worker levy for unskilled workers
+         employed by tourist hotels;
+     !   a Bridging Loan Program, which offers working capital loans to
+         tourism-related small- and medium-sized enterprises;
+     !   a Skills Redevelopment Program and SARS Relief Tourism
+         Training Assistance Program, which offers funds to employers who
+         send their employees to certified training courses in the tourism
+         sector;
+     !   diesel and road tax rebates for taxis, and operator licence fee
+         waivers;
+     !   rebates on aircraft landing fees and rental spaces at airports;
+     !   50% reduction in port dues for cruise ships; and
+     !   dollar-for-dollar matching of funds for the Courage Fund, a tripartite
+         fund established to help the victims of SARS and affected health
+         care workers. The fund received nearly $10 million in just 7 weeks.80
+
+     Singapore was removed from the list of areas with recent local transmission on
+May 31, 2003. To date, 206 people have contracted SARS in Singapore, and 32 have
+died of the virus. The last probable case was reported on May 18, 2003.
+
+Canada
+     When SARS first emerged in the country some criticized Canadian officials for
+waiting too long to quarantine 500 members of a prayer group widely believed to
+have been the source of the virus in Canada.81 WHO officials also complained that
+the Canadian government had been slow to relay current information. Relations
+between the U.N. agency and Canadian authorities were strained when the WHO
+decided to place a SARS travel advisory on Toronto. Canada appealed to the WHO
+to remove the travel advisory, because officials claimed they could trace all
+occurrences of the virus.82 On May 14, 2003, two days after the 24th SARS victim
+died, the WHO removed the travel advisory, citing 20 days had passed without new
+
+
+79
+  Singapore Ministry of Information ,”Ministerial Statement in Parliament, SARS - A
+National Response.” April 24, 2003. [http://app.sprinter.gov.sg/data/pr/2003042408.htm]
+80
+  Ministry of Manpower, “Joint Media Release from the Ministry of Finance and Ministry
+of Trade & Industry: Government Unveils $230 million SARS Relief Package.” April 24,
+2003. [http://www.mom.gov.sg]
+81
+  Krauss, Clifford, “Disease Has Canada Doubting Its Leaders,” New York Times, April 19,
+2003.
+82
+  Brown, DeNeen L., “Virus Worry Fades in Toronto, but Concerns Lingers.” April 24,
+2003. The Washington Post. [http://www.washingtonpost.com]
+                                        CRS-17
+
+cases. However, on May 23, 2003 Toronto health officials reported that four new
+suspected SARS cases were under close surveillance.83 On May 26, 2003, the WHO
+placed Toronto back on its list of countries with recent local transmission, but it did
+not place a travel advisory on the city.
+
+      Following criticism of bureaucratic delay, Canadian officials took a number of
+steps to contain the virus, including inviting the U.S. Centers for Disease Control
+(CDC) to monitor its hospitals, closing a number of hospitals and clinics, and
+quarantining those individuals suspected to have SARS. Canada also undertook a
+number of initiatives to aid businesses and individuals adversely affected by SARS.
+ On April 30, 2003, the Government of Canada passed the SARS Assistance and
+Recovery Strategy Act, which protects the jobs of people affected by SARS, and
+enables employees to take unpaid leave of absence for SARS-related reasons. It also
+included $1.7 million in new funding to help scientists develop a new test and
+possible vaccine for SARS. All tourist facilities in Toronto were also exempt from
+retail tax from May 1, 2003 to September 30, 2003, under the act.84
+
+     Another government initiative implemented to assist Canadians affected by
+SARS is the SARS Grant Initiative. Eligible full-time and part-time health care
+workers affected by SARS can receive $400 per week and $200 per week,
+respectively. This initiative complements adjustments made to the Employment
+Insurance (EI) Act, which allows up to 15 weeks of special benefits when an eligible
+claimant is unable to work because of illness, injury or quarantine. The Government
+of Canada has adjusted the EI program so that those who become ill due to SARS are
+not immediately required to provide a medical certificate, and no longer have to wait
+two weeks to receive benefits.85 Other SARS-related actions include:
+
+     !   committing $10 million toward a marketing campaign;
+     !   arranging special payment schedules or temporary deferral of
+         mortgage payment for those who find it difficult to pay mortgages
+         due to SARS;
+     !   extending tax due dates, establishing flexible payment schedules and
+         waiving tax penalties or interest for those affected by SARS; and
+     !   offering a four-month postponement of capital payments without
+         penalty and small capital loans to small businesses affected by
+         SARS.86
+
+
+
+83
+  The Straits Times, “Officials fear four in Toronto hospital may have SARS.” May 23,
+2003. [http://straitstimes.com]
+84
+  Premier Erne Eves Media Office, “Premier Ernie Eves’ SARS strategy bill passes on first
+day of legislature.” May 13, 2003, Canada NewsWire.
+[http://www.newswire.ca/releases/April2003/30/c6392.html] and Brown, DeNeen L.,
+“Canada Seeks Help From CDC in Fighting Virus.” April 23, 2003. The Washington Post.
+85
+  Human Resources Development Canada, “Severe Acute Respiratory Syndrome News
+Release.” March 28, 2003. Human Resources Development Canada.
+[http://www.hrdc-drhc.gc.ca/common/news/insur/030328.shtml]
+86
+  Government of Canada, “Government of Canada Action to Contain the Effects of Severe
+Acute Respiratory Syndrome (SARS).” May 2, 2003. Prime Minister of Canada website.
+[http://www.pm.gc.ca/]
+                                       CRS-18
+
+      In June 2003, health workers concerned about their safety, including hundreds
+of nurses, demonstrated in Canada to demand danger pay, protective suits, and a
+public investigation into the cause of the SARS resurgence. Some nurses claimed
+that hospital officials were slow to respond to their warnings that patients in other
+wards showed SARS-like symptoms. Still, some family practitioners expressed
+concern that health officials failed to notify them when the virus first resurfaced. As
+a result, some family practitioners fell ill with the virus.87 When the virus resurfaced
+thirteen people died of SARS and thousands were quarantined.88
+
+     Toronto was removed from the list of areas with recent local transmission on
+July 2, 2003. The last probable case was reported on June 12, 2003. To date, 250
+people have contracted the virus and 38 have died of SARS.
+
+
+                      Congressional Response
+Infectious Disease Monitoring
+      The rapid spread of the SARS virus underscored the importance of establishing
+a database system that would allow rapid and accurate information sharing on
+emergent infectious diseases. The Senate FY2004 Labor, Health and Human
+Services (HHS) and Education appropriations bill provides over $370 billion for
+infectious disease control at CDC, including $25 million for SARS research,
+prevention and control. It also includes $50 million to develop a Global Disease
+Detection System at the CDC that would enable the United States to effectively
+respond to a global infectious disease threat. The Senate bill also increases NIH
+funding for emerging infectious disease from nearly $600 million in FY2003 to $1.7
+billion.
+
+Capacity Building
+     Congress has also recognized the need to strengthen state and local capacity to
+respond to a bioterrorist attack or infectious disease outbreak. The Senate bill
+proposes that CDC funds for that purpose be maintained at FY2003 levels, $940
+million. Part of strengthening state and local capacity includes the support of the
+Health Alert Network (HAN). Prior to HAN, one-half of local public health
+departments did not have e-mail. The HAN system has been used to share
+information about SARS. Forty million U.S. dollars have been reserved for this
+purpose in the Senate version of the FY2004 Labor, HHS, and Education
+appropriations bill.
+
+
+
+
+87
+    The Washington Post, “SARS Takes Toll on Nurses.”                 June 12, 2003.
+[http://www.washingtonpost.com]
+88
+   WHO, “Cumulative # of Reported Probable Cases of SARS.”               June 2, 2003.
+[http://www.who.int]
+                                       CRS-19
+
+Improving U.S. Response Capability
+     The rapid spread of the SARS virus has demonstrated the need to quickly and
+effectively respond to an intentional or natural infectious disease outbreak. Congress
+appropriated $77.5 million to the CDC Epidemic Services and Response program in
+FY2003. The Senate version of the FY2004 Labor, HHS and Education
+appropriations bill increases funding for those efforts to $127.5 million in FY2004.
+The CDC Epidemic and Response program provides resources and scientific
+expertise for operating and evaluating surveillance systems; develops and refines
+research methods and strategies for public health practitioners; and trains public
+health professionals who respond to public health emergencies and outbreaks. The
+Senate version also directs over $578 million to the Health Resources and Services
+Administration (HRSA) to combat bioterrorism.89
+
+
+                            Future Challenges
+     The SARS outbreak has provided lessons that may have future application. The
+WHO/CDC intervention greatly increased the effectiveness of the global response.
+A number of factors influenced the outcome, such as the system of global alerts and
+awareness, and access to immediate, high-level research and scientific collaboration.
+Coordinated efforts through the WHO/CDC, national governments, and the public
+health professionals also led to positive results, as in the case of Vietnam. Dr. Julie
+Gerberding, Director of the Centers for Disease Control and Prevention, had high
+praise for WHO’s leadership during the crisis and emphasized communication and
+transparency as key to responding to international health crises. Areas in which
+improvements have been called for in the global response to infectious disease threats
+include:
+
+Global Interdependence and Transparency
+      Lack of transparency in promptly reporting and monitoring SARS outbreaks
+directly contributed to the spread of the disease worldwide and had wide-ranging
+impacts beyond the obvious health factors. The case of SARS demonstrated that
+state responsibility within a globalized world does not end at its borders and that
+future containment relies on openness and cooperation in the interests of all
+populations.
+
+
+
+
+89
+  For more information on Congressional efforts to combat SARS, see CRS Report
+RL31937, Severe Acute Respiratory Syndrome (SARS): Public Health Situation and U.S.
+Response.
+                                        CRS-20
+
+Developing Surge Capacity
+     The ability of public health systems and the availability of resources to deal with
+a threat like SARS were clearly inadequate. Addressing the need and ability to
+mobilize additional resources, both within the country itself, and through the WHO
+network during an emergency, would improve the response to similar challenges in
+the future. Some have expressed concern about the impact SARS could have had if
+the outbreak had reached developing countries with minimal health care
+infrastructures, particularly those already weakened by HIV/AIDS. Others have
+argued that SARS has underscored the importance of boosting aid efforts that offer
+structural support, such as aiding in the training of health care professionals, donating
+medical supplies and equipment, upgrading health technologies, and ensuring
+universal inoculation against resurgent diseases such as tuberculosis.
+
+Public Fear and Information Disclosure
+      The WHO had to strike a balance. On the one hand it was pressed to give
+information, and use aggressive tactics of containment. On the other hand, the
+information about SARS may have contributed to public panic and anxiety,
+discrimination in some cases, and other impacts, such as economic losses. Some
+argue that the WHO did not take into account the impact of its decision-making
+concerning travel advisories and global alert warnings and that the SARS risk
+sometimes did not demonstrate the need for such a response.90 Some governments
+in the future may be hesitant rapidly and openly to share outbreak information,
+because they may want to avoid potential negative economic impacts, such as job
+losses, hotel closures and flight cancellations as occurred at the height of the SARS
+crisis. For example, 60,000 restaurant and hotel workers in Hong Kong lost their jobs
+or were placed on unpaid leave during the SARS outbreak.91 In Singapore, year-by-
+year comparisons showed that tourist arrivals fell 15% in March 2003 and 67% in
+April 2003, and hotels reported occupancy rates of only 10 to 30%, compared to
+usual occupancy rates of 70% or more during the first quarter of the year. 92
+
+National Response
+     The weakness of national surveillance systems and health networks within any
+one country can dramatically affect the area and rate at which a disease spreads. If
+the SARS virus had spread more rapidly and extensively throughout the affected
+countries and for a sustained period, it could have had a significant impact on the
+health care systems, and other systems. Those in need of health care, such as those
+with cancer, requiring surgery, or those requiring immediate medical attention may
+not have been able to receive care. In order to contain the SARS virus, hospital
+wards and, at times, entire hospitals were shut down for weeks at a time to
+
+
+90
+     Far Eastern Economic Review, “SARS: A WHO-Induced Panic?” May 22, 2003.
+91
+    MSNBC, “Record SARS            deaths   in   Hong    Kong.”      April   15,   2003.
+[http://www.msnbc.com]
+92
+  Channel News Asia, “National Wages Council (NWC) wage guidelines for July 2003 to
+June 2004.” May 27, 2003. [http://www.channelnewsasia.com]
+                                       CRS-21
+
+decontaminate them. Significant resources were used to quarantine SARS-infected
+individuals, schools were closed, and other private facilities were adversely impacted.
+Such problems caused by SARS illustrate the need to develop effective national
+response systems.
+
+Inadequate Funding
+      WHO officials and others have argued that there is a need for increased funding
+for laboratories and epidemiological research in the fight to contain diseases like
+SARS. Improvements to the existing surveillance network and national capacity to
+address emergency health issues are also badly needed. For example, GOARN
+reportedly needs $200 million to reinforce its network.93
+
+
+
+
+93
+     Associated Press,”New WHO Chief Plans More Action on SARS,” May 21, 2003.
+EveryCRSReport.com
+
+The Congressional Research Service (CRS) is a federal legislative branch agency, housed inside the
+Library of Congress, charged with providing the United States Congress non-partisan advice on
+issues that may come before Congress.
+
+EveryCRSReport.com republishes CRS reports that are available to all Congressional staff. The
+reports are not classified, and Members of Congress routinely make individual reports available to
+the public.
+
+Prior to our republication, we redacted names, phone numbers and email addresses of analysts
+who produced the reports. We also added this page to the report. We have not intentionally made
+any other changes to any report published on EveryCRSReport.com.
+
+CRS reports, as a work of the United States government, are not subject to copyright protection in
+the United States. Any CRS report may be reproduced and distributed in its entirety without
+permission from CRS. However, as a CRS report may include copyrighted images or material from a
+third party, you may need to obtain permission of the copyright holder if you wish to copy or
+otherwise use copyrighted material.
+
+Information in a CRS report should not be relied upon for purposes other than public
+understanding of information that has been provided by CRS to members of Congress in
+connection with CRS' institutional role.
+
+EveryCRSReport.com is not a government website and is not affiliated with CRS. We do not claim
+copyright on any CRS report we have republished.
+
